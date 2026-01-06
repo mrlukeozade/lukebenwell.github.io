@@ -9,3 +9,9 @@ I’m an IT professional focused on building practical skills through hands-on p
 - Networking & Security
 - Infrastructure & Automation
 - Documentation & Diagrams
+
+## Projects
+
+- **Cloud Web Application Architecture**  
+  Design of a scalable and secure cloud-hosted web application.  
+  👉 [View project](https://github.com/yourusername/cloud-web-architecture)
