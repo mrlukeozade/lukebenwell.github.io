@@ -1,110 +1,84 @@
 # Luke Benwell – Technical Architect
 
+---
+
 ## About Me
-I’m a Technical Architect with over 6 years of professional IT experience, having progressed from 1st Line Support through 2nd and 3rd Line engineering into architecture-focused roles. This hands-on experience gives me a practical understanding of how systems operate, which informs my approach to designing solutions that are not only technically sound but also supportable and aligned with business needs.
+I’m a Technical Architect with over **6 years of professional IT experience**, having progressed from 1st Line Support through 2nd and 3rd Line engineering into architecture-focused roles. This hands-on background gives me a practical understanding of how systems operate, which informs my approach to designing solutions that are **technically sound, secure, and aligned with business needs**.
 
-I specialise in designing and delivering **secure, scalable, and resilient architectures** across both cloud and on-premises environments. My expertise spans **Windows Server, Active Directory, Group Policy, and identity and access management**, as well as **cloud platforms including Azure, AWS, and virtualization with Proxmox**. I leverage **Infrastructure as Code (Terraform, Ansible)** and automation to ensure consistency, reliability, and efficiency in deployments, while maintaining strong security and compliance standards.
+I specialise in designing and delivering **secure, scalable, and resilient architectures** across both **cloud and on-premises environments**, with a strong focus on **identity, security, automation, and Infrastructure as Code**. I enjoy translating complex business requirements into **clear, well-documented technical designs** and architecture decision records, balancing operational needs, scalability, and security.
 
-I enjoy translating complex business requirements into **clear, well-documented technical designs** and architecture decision records, balancing operational needs, scalability, and security. My approach is always focused on creating IT ecosystems that are resilient, maintainable, and capable of supporting business growth — from hybrid cloud migrations and modern device management to secure network and cloud solutions.
+---
 
-## Core Skills
+## Key Skills
 
-## Windows Server
+### Windows Server
+- Design, deployment, and administration of multi-domain Windows Server environments  
+- Management of Active Directory, Group Policy, DNS, DHCP, and core services  
+- High-availability configurations, clustering, and failover strategies  
+- Performance monitoring, patching, and operational troubleshooting  
+- Server migration and upgrade planning with minimal downtime  
 
-Design, deployment, and administration of multi-domain Windows Server environments.
+### Active Directory & Identity Management
+- Architecture and management of AD forests, domains, trusts, and OU structures  
+- Hybrid Azure AD, Intune, and Endpoint Manager deployments for modern device management  
+- Identity lifecycle management including onboarding/offboarding automation  
+- Single Sign-On (SSO) integration and IAM best practices  
+- Group Policy and secure baseline configuration  
 
-Management of Active Directory, Group Policy, DNS, DHCP, and other core services.
+### Cybersecurity
+- **Patch & Vulnerability Management** – Assessing, prioritising, and remediating vulnerabilities using ManageEngine, native OS tooling, and cloud security dashboards  
+- **Governance, Risk & Compliance (GRC)** – Aligning infrastructure to ISO 27001, NIST, GDPR, and internal policies  
+- **Threat Classification & Analysis** – Identifying, categorising, and prioritising security threats  
+- **Vulnerability Remediation & Hardening** – Applying secure baselines across Windows and Linux systems  
+- **Incident Response & Monitoring** – Setting up alerts, monitoring logs, and executing response plans  
+- **Cloud & Hybrid Security** – Implementing IAM, zero-trust, network segmentation, and encryption in Azure, AWS, and hybrid environments  
 
-Implementation of high-availability configurations, clustering, and failover strategies.
+### Cloud & Virtualisation
+- Architecture and deployment of scalable solutions in Azure and AWS  
+- Hybrid and multi-cloud management with secure connectivity  
+- Virtualisation with Proxmox, VMware, and Hyper-V, including high availability and resource optimisation  
+- Infrastructure as Code (Terraform, Bicep, Ansible) for automation and consistency  
+- Cost optimisation, performance monitoring, and resilience planning  
 
-Performance monitoring, patching, and operational troubleshooting.
+### Networking & Security Design
+- Designing secure network topologies, segmentation, VLANs, VPNs, firewalls, and routing  
+- High-availability network design and load balancing  
+- Security monitoring, logging, and intrusion detection  
+- Zero-trust implementation and least-privilege access across networks and systems  
 
-Migration and upgrade planning across server versions with minimal downtime.
+### Infrastructure as Code & Automation
+- Automating deployment, configuration, and management with Terraform, Ansible, and PowerShell  
+- Standardising environments for reproducibility and auditability  
+- Integrating automation into CI/CD pipelines  
+- Reducing operational errors and improving efficiency  
 
-## Active Directory & Identity Management
+### Monitoring, Backup & Disaster Recovery
+- Designing monitoring and observability systems for performance, availability, and security  
+- Implementing backup and recovery solutions to meet RTO/RPO requirements  
+- Planning disaster recovery and high-availability strategies for cloud and on-premises  
+- Continuous testing and validation of recovery processes  
 
-Architecture and management of AD forests, domains, trusts, and OU structures.
+### DevOps & CI/CD Concepts
+- Designing pipelines for continuous integration and delivery  
+- Integrating infrastructure, security, and operational controls  
+- Version-controlled infrastructure, automated testing, and deployment workflows  
+- Applying DevOps principles to improve reliability and speed  
 
-Implementation of identity lifecycle management, including onboarding/offboarding automation.
+### Stakeholder Communication & Documentation
+- Translating complex technical designs into clear documentation for technical and non-technical audiences  
+- Producing Architecture Decision Records (ADRs), runbooks, and technical guides  
+- Leading workshops, knowledge-sharing sessions, and technical reviews  
+- Collaborating with clients and stakeholders to align solutions with business objectives  
 
-Design and deployment of hybrid Azure AD environments, Intune, and Endpoint Manager for modern device management and compliance.
-
-Group Policy and security baseline configuration, ensuring consistent user and system policies.
-
-Integration with cloud IAM and Single Sign-On (SSO) solutions to unify identity management.
-
-## Cybersecurity
-
-Patch & Vulnerability Management – Regular assessment, prioritisation, and remediation of vulnerabilities using tools such as ManageEngine, OS-native tools, and cloud security dashboards.
-
-Governance, Risk, and Compliance (GRC) – Aligning IT infrastructure with frameworks like ISO 27001, NIST, GDPR, and organisational security policies.
-
-Threat Classification & Analysis – Identification, classification, and prioritisation of potential security threats to systems and data.
-
-Vulnerability Remediation & Hardening – Applying secure baselines, remediating vulnerabilities, and hardening servers, endpoints, and applications.
-
-Incident Response & Monitoring – Setting up alerts, monitoring logs, and executing response plans to contain and resolve security events.
-
-Cloud & Hybrid Security – Implementing IAM, network segmentation, encryption, and zero-trust controls in Azure, AWS, and hybrid environments.
-
-## Cloud & Virtualisation
-
-Design and deployment of scalable cloud solutions on Azure and AWS.
-
-Management of hybrid and multi-cloud environments with secure connectivity.
-
-Virtualisation using Proxmox, VMware, and Hyper-V, including high-availability and resource optimisation.
-
-Implementation of Infrastructure as Code (Terraform, Bicep, Ansible) to automate provisioning, configuration, and ongoing management.
-
-Cloud cost optimisation, performance monitoring, and resilience planning.
-
-## Networking & Security Design
-
-Architecture of secure network topologies, including segmentation, VLANs, VPNs, firewalls, and routing.
-
-Implementation of Zero Trust principles and least-privilege access across networks and systems.
-
-Design of network redundancy, load balancing, and failover for high-availability environments.
-
-Security monitoring, logging, and intrusion detection using native and third-party tools.
-
-Collaboration with security teams to ensure alignment with organisational policies and compliance requirements.
-
-## Infrastructure as Code & Automation
-
-Automating deployment, configuration, and management using Terraform, Ansible, and PowerShell.
-
-Scripting operational tasks, patching, and account management to reduce manual errors.
-
-Standardising environments to ensure reproducibility, consistency, and auditability.
-
-Integrating automation into CI/CD pipelines for faster, reliable releases.
-
-Driving efficiency and consistency across multi-environment deployments.
-
-## Monitoring, Backup, & Disaster Recovery
-
-Designing monitoring and observability systems to track performance, availability, and security metrics.
-
-Implementing backup and recovery solutions to meet RTO and RPO requirements.
-
-Planning disaster recovery and high-availability strategies for both on-premises and cloud environments.
-
-Continuous testing and validation of recovery processes to ensure business continuity.
-
-## Stakeholder Communication & Documentation
-
-Translating complex technical designs into clear, understandable documentation for business and technical audiences.
-
-Producing Architecture Decision Records (ADRs), runbooks, and technical guides to support long-term maintainability.
-
-Leading workshops, knowledge sharing sessions, and technical reviews with cross-functional teams.
-
-Collaborating with clients and business leaders to align technical solutions with organisational goals.
+---
 
 ## Projects
+- **[Cloud Web Application Architecture](https://github.com/yourusername/cloud-web-architecture)** – Design of a scalable, secure cloud-hosted web application with hybrid identity and automated provisioning.  
+- **[Hybrid On-Prem to Cloud Migration](https://github.com/yourusername/hybrid-cloud-migration)** – Architecture and migration plan for moving legacy workloads to Azure and AWS while maintaining compliance and security.  
+- **[Secure Network Architecture](https://github.com/yourusername/secure-network-architecture)** – Network segmentation, zero-trust design, and resilience planning for enterprise environments.  
 
-- **Cloud Web Application Architecture**  
-  Design of a scalable and secure cloud-hosted web application.  
-  👉 [View project](https://github.com/yourusername/cloud-web-architecture)
+---
+
+## Contact
+- **LinkedIn:** [https://linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+- **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
