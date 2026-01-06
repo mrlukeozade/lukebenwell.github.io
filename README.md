@@ -1,3 +1,4 @@
+
 # Luke Benwell – Technical Architect
 
 ---
@@ -10,6 +11,18 @@ I specialise in designing and delivering **secure, scalable, and resilient archi
 ---
 
 ## Key Skills
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-CC0000?style=flat-square&logo=proxmox&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft-intune&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
 
 ### Windows Server
 - Design, deployment, and administration of multi-domain Windows Server environments  
@@ -84,8 +97,3 @@ I specialise in designing and delivering **secure, scalable, and resilient archi
 - **LinkedIn:** [https://linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
 - **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
