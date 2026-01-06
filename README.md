@@ -8,7 +8,8 @@ I specialise in designing and delivering **secure, scalable, and resilient archi
 I enjoy translating complex business requirements into **clear, well-documented technical designs** and architecture decision records, balancing operational needs, scalability, and security. My approach is always focused on creating IT ecosystems that are resilient, maintainable, and capable of supporting business growth — from hybrid cloud migrations and modern device management to secure network and cloud solutions.
 
 ## Core Skills
-**Windows Server
+
+## Windows Server
 
 Design, deployment, and administration of multi-domain Windows Server environments.
 
@@ -20,7 +21,7 @@ Performance monitoring, patching, and operational troubleshooting.
 
 Migration and upgrade planning across server versions with minimal downtime.
 
-**Active Directory & Identity Management
+## Active Directory & Identity Management
 
 Architecture and management of AD forests, domains, trusts, and OU structures.
 
@@ -32,7 +33,7 @@ Group Policy and security baseline configuration, ensuring consistent user and s
 
 Integration with cloud IAM and Single Sign-On (SSO) solutions to unify identity management.
 
-**Cybersecurity
+## Cybersecurity
 
 Patch & Vulnerability Management – Regular assessment, prioritisation, and remediation of vulnerabilities using tools such as ManageEngine, OS-native tools, and cloud security dashboards.
 
@@ -46,7 +47,7 @@ Incident Response & Monitoring – Setting up alerts, monitoring logs, and execu
 
 Cloud & Hybrid Security – Implementing IAM, network segmentation, encryption, and zero-trust controls in Azure, AWS, and hybrid environments.
 
-**Cloud & Virtualisation
+## Cloud & Virtualisation
 
 Design and deployment of scalable cloud solutions on Azure and AWS.
 
@@ -58,7 +59,7 @@ Implementation of Infrastructure as Code (Terraform, Bicep, Ansible) to automate
 
 Cloud cost optimisation, performance monitoring, and resilience planning.
 
-**Networking & Security Design
+## Networking & Security Design
 
 Architecture of secure network topologies, including segmentation, VLANs, VPNs, firewalls, and routing.
 
@@ -70,7 +71,7 @@ Security monitoring, logging, and intrusion detection using native and third-par
 
 Collaboration with security teams to ensure alignment with organisational policies and compliance requirements.
 
-**Infrastructure as Code & Automation
+## Infrastructure as Code & Automation
 
 Automating deployment, configuration, and management using Terraform, Ansible, and PowerShell.
 
@@ -82,7 +83,7 @@ Integrating automation into CI/CD pipelines for faster, reliable releases.
 
 Driving efficiency and consistency across multi-environment deployments.
 
-**Monitoring, Backup, & Disaster Recovery
+## Monitoring, Backup, & Disaster Recovery
 
 Designing monitoring and observability systems to track performance, availability, and security metrics.
 
@@ -92,7 +93,7 @@ Planning disaster recovery and high-availability strategies for both on-premises
 
 Continuous testing and validation of recovery processes to ensure business continuity.
 
-**Stakeholder Communication & Documentation
+## Stakeholder Communication & Documentation
 
 Translating complex technical designs into clear, understandable documentation for business and technical audiences.
 
