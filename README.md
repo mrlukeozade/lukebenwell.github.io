@@ -14,7 +14,7 @@ I specialise in designing and delivering **secure, scalable, and resilient archi
 - **Microsoft Certified: Azure Solutions Architect Expert**  
 - **AWS Certified Solutions Architect – Associate**  
 - **CompTIA Security+**
-- MTA Mobility and Device Fundamentals - https://www.credly.com/badges/cf0f3bff-112f-48da-ba85-c78f7a6c97e3/linked_in_profile
+- [MTA Mobility and Device Fundamentals](https://www.credly.com/badges/cf0f3bff-112f-48da-ba85-c78f7a6c97e3/linked_in_profile)
   
 ---
 
