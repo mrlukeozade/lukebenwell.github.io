@@ -84,17 +84,20 @@ I specialise in designing and delivering **secure, scalable, and resilient archi
 - Planning disaster recovery and high-availability strategies for cloud and on-premises  
 - Continuous testing and validation of recovery processes  
 
-### DevOps & CI/CD Concepts
-- Designing pipelines for continuous integration and delivery  
-- Integrating infrastructure, security, and operational controls  
-- Version-controlled infrastructure, automated testing, and deployment workflows  
-- Applying DevOps principles to improve reliability and speed  
-
 ### Stakeholder Communication & Documentation
 - Translating complex technical designs into clear documentation for technical and non-technical audiences  
 - Producing Architecture Decision Records (ADRs), runbooks, and technical guides  
 - Leading workshops, knowledge-sharing sessions, and technical reviews  
-- Collaborating with clients and stakeholders to align solutions with business objectives  
+- Collaborating with clients and stakeholders to align solutions with business objectives
+
+### Change & Project Management
+- **Change Management** – planning, assessing, and coordinating IT changes across systems to minimise risk and downtime  
+- **Project Management** – leading and managing technical projects, ensuring delivery on time, scope, and budget  
+- **Ticketing & Workflow Platforms** – experience with **Jira, Zendesk, Monday.com**, managing tasks, sprints, and project pipelines  
+- **Documentation & Reporting** – producing project plans, change requests, impact assessments, and status reports  
+- **Stakeholder Coordination** – working with business leaders, IT teams, and external vendors to align deliverables with business objectives  
+- **Agile & Scrum Practices** – implementing agile workflows, sprint planning, retrospectives, and iterative delivery in technical projects  
+- **Risk & Compliance Alignment** – ensuring projects adhere to organisational policies, regulatory requirements, and security standards   
 
 ---
 
@@ -106,6 +109,6 @@ I specialise in designing and delivering **secure, scalable, and resilient archi
 ---
 
 ## Contact
-- **LinkedIn:** [https://linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
-- **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
+- **LinkedIn:** [https://linkedin.com/in/your-link](https://linkedin.com/in/luke-benwell-66a01a1a7)  
+- **GitHub:** [https://github.com/yourusername](https://github.com/mrlukeozade)
 
