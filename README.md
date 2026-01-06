@@ -11,9 +11,10 @@ I specialise in designing and delivering **secure, scalable, and resilient archi
 ## Certifications
 ---
 
-- **Microsoft Certified: Azure Solutions Architect Expert**  
-- **AWS Certified Solutions Architect – Associate**  
-- **CompTIA Security+**
+- [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/8ef19019-c90c-45f8-afdf-c1257359526e/linked_in_profile) 
+- [**AWS Certified Cloud Practioneer – Associate**]
+- [**CompTIA Security+**](https://www.credly.com/badges/a7049241-acb2-44f5-9363-6e86ae1507d5/linked_in_profile)
+- [**CompTIA Network+**](https://www.credly.com/badges/7b6552a8-66c4-4816-9d70-4798aa41cf2f/linked_in_profile)
 - [MTA Mobility and Device Fundamentals](https://www.credly.com/badges/cf0f3bff-112f-48da-ba85-c78f7a6c97e3/linked_in_profile)
   
 ---
