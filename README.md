@@ -83,3 +83,9 @@ I specialise in designing and delivering **secure, scalable, and resilient archi
 ## Contact
 - **LinkedIn:** [https://linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
 - **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
