@@ -32,7 +32,7 @@ I specialise in designing and delivering **secure, scalable, and resilient archi
 - Server migration and upgrade planning with minimal downtime
 
 ### Linux
-- Installation, configuration, and administration of Linux servers (Ubuntu, CentOS, RHEL) for production and lab environments  
+- Installation, configuration, and administration of Linux servers (Ubuntu, CentOS, RHEL, Kali and Oracle) for production and lab environments  
 - **System monitoring and resource management** – checking CPU, memory, disk usage, and running processes to ensure performance and availability  
 - **User, permissions, and file system management** – configuring file ownership, permissions, SFTP jails, and access control to enforce security policies  
 - **SSH management and automation** – setting up SSH keys, configuring secure remote access, and automating operational tasks  
