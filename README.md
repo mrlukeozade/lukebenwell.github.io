@@ -29,7 +29,19 @@ I specialise in designing and delivering **secure, scalable, and resilient archi
 - Management of Active Directory, Group Policy, DNS, DHCP, and core services  
 - High-availability configurations, clustering, and failover strategies  
 - Performance monitoring, patching, and operational troubleshooting  
-- Server migration and upgrade planning with minimal downtime  
+- Server migration and upgrade planning with minimal downtime
+
+### Linux
+- Installation, configuration, and administration of Linux servers (Ubuntu, CentOS, RHEL) for production and lab environments  
+- **System monitoring and resource management** – checking CPU, memory, disk usage, and running processes to ensure performance and availability  
+- **User, permissions, and file system management** – configuring file ownership, permissions, SFTP jails, and access control to enforce security policies  
+- **SSH management and automation** – setting up SSH keys, configuring secure remote access, and automating operational tasks  
+- **Cron job management** – scheduling and editing cron files to automate repetitive tasks and maintenance routines  
+- **Firewall configuration and hardening** – implementing iptables, firewalld, or UFW rules to secure Linux servers  
+- **Package management and service configuration** – installing, updating, and maintaining packages and services with best-practice configurations  
+- **Integration with AD/LDAP** – centralised authentication for mixed Windows/Linux environments  
+- **Automation and Infrastructure as Code** – using Ansible and scripting to provision, configure, and maintain Linux servers consistently  
+- **Backup, disaster recovery, and patch management** – maintaining resilience and compliance in hybrid IT environments  
 
 ### Active Directory & Identity Management
 - Architecture and management of AD forests, domains, trusts, and OU structures  
