@@ -8,6 +8,14 @@ I’m a Technical Architect with over **6 years of professional IT experience**,
 
 I specialise in designing and delivering **secure, scalable, and resilient architectures** across both **cloud and on-premises environments**, with a strong focus on **identity, security, automation, and Infrastructure as Code**. I enjoy translating complex business requirements into **clear, well-documented technical designs** and architecture decision records, balancing operational needs, scalability, and security.
 
+## Certifications
+---
+
+- **Microsoft Certified: Azure Solutions Architect Expert**  
+- **AWS Certified Solutions Architect – Associate**  
+- **CompTIA Security+**
+- MTA Mobility and Device Fundamentals - https://www.credly.com/badges/cf0f3bff-112f-48da-ba85-c78f7a6c97e3/linked_in_profile
+  
 ---
 
 ## Key Skills
