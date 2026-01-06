@@ -31,7 +31,8 @@ I specialise in designing and delivering **secure, scalable, and resilient archi
 - **Threat Classification & Analysis** – Identifying, categorising, and prioritising security threats  
 - **Vulnerability Remediation & Hardening** – Applying secure baselines across Windows and Linux systems  
 - **Incident Response & Monitoring** – Setting up alerts, monitoring logs, and executing response plans  
-- **Cloud & Hybrid Security** – Implementing IAM, zero-trust, network segmentation, and encryption in Azure, AWS, and hybrid environments  
+- **Cloud & Hybrid Security** – Implementing IAM, zero-trust, network segmentation, and encryption in Azure, AWS, and hybrid environments
+- Implemetation of Cyber Essentials, Cyber Essentials Plus and Cyber Assurance Frameworks.  
 
 ### Cloud & Virtualisation
 - Architecture and deployment of scalable solutions in Azure and AWS  
