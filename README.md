@@ -118,6 +118,6 @@ I specialise in designing and delivering **secure, scalable, and resilient archi
 ---
 
 ## Contact
-- **LinkedIn:** [https://linkedin.com/in/your-link](https://linkedin.com/in/luke-benwell-66a01a1a7)  
-- **GitHub:** [https://github.com/yourusername](https://github.com/mrlukeozade)
+- **LinkedIn:** [https://linkedin.com/in/luke-benwell-66a01a1a7](https://linkedin.com/in/luke-benwell-66a01a1a7)  
+- **GitHub:** [https://github.com/mrlukeozade](https://github.com/mrlukeozade)
 
