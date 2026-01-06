@@ -88,10 +88,10 @@ I specialise in designing and delivering **secure, scalable, and resilient archi
 - Reducing operational errors and improving efficiency  
 
 ### Monitoring, Backup & Disaster Recovery
-- Designing monitoring and observability systems for performance, availability, and security  
-- Implementing backup and recovery solutions to meet RTO/RPO requirements  
+- Designing monitoring and observability systems for performance, availability, and security using technologies such as Promethus, Zabbix and Grafana.  
+- Implementing backup and recovery solutions to meet RTO/RPO requirements, utilising products such as Veeam and Datto.  
 - Planning disaster recovery and high-availability strategies for cloud and on-premises  
-- Continuous testing and validation of recovery processes  
+- Continuous testing and validation of recovery processes.  
 
 ### Stakeholder Communication & Documentation
 - Translating complex technical designs into clear documentation for technical and non-technical audiences  
@@ -106,7 +106,8 @@ I specialise in designing and delivering **secure, scalable, and resilient archi
 - **Documentation & Reporting** – producing project plans, change requests, impact assessments, and status reports  
 - **Stakeholder Coordination** – working with business leaders, IT teams, and external vendors to align deliverables with business objectives  
 - **Agile & Scrum Practices** – implementing agile workflows, sprint planning, retrospectives, and iterative delivery in technical projects  
-- **Risk & Compliance Alignment** – ensuring projects adhere to organisational policies, regulatory requirements, and security standards   
+- **Risk & Compliance Alignment** – ensuring projects adhere to organisational policies, regulatory requirements, and security standards
+- Producing project proposals with deliverables and costs to new prospects   
 
 ---
 
