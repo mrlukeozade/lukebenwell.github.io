@@ -113,8 +113,7 @@ I specialise in designing and delivering **secure, scalable, and resilient archi
 
 ## Projects
 
-- **Proxmox Home Lab**    
-  [View project →](https://github.com/mrlukeozade/proxmox-home-lab) - Virtualisation platform for hosting home lab environments.
+- **Proxmox Home Lab** [View project →](https://github.com/mrlukeozade/proxmox-home-lab) - Virtualisation platform for hosting home lab environments. 
 
 - **[Hybrid On-Prem to Cloud Migration](https://github.com/yourusername/hybrid-cloud-migration)** – Architecture and migration plan for moving legacy workloads to Azure and AWS while maintaining compliance and security.  
 - **[Secure Network Architecture](https://github.com/yourusername/secure-network-architecture)** – Network segmentation, zero-trust design, and resilience planning for enterprise environments.  
